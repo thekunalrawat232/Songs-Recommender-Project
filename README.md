@@ -10,7 +10,7 @@
 
 <p>This project is a <strong>Song Recommender System</strong> that suggests songs based on user preferences. I utilized several key libraries and frameworks to bring this project to life:</p>
 <ul>
-    <li><strong>TensorFlow</strong> and <strong>scikit-learn</strong> for building and training the recommendation models.</li>
+    <li><strong>scikit-learn</strong> for building and training the recommendation models.</li>
     <li><strong>Pandas</strong> and <strong>NumPy</strong> for data manipulation and preprocessing.</li>
     <li><strong>Matplotlib</strong> for visualizing data insights and model performance.</li>
     <li><strong>Streamlit</strong> for creating a user-friendly web interface, allowing users to interact with the recommender system directly from their browsers.</li>
@@ -27,20 +27,11 @@
 <h2>🛠️ Tools & Libraries</h2>
 
 <ul>
-    <li><strong>TensorFlow</strong></li>
     <li><strong>scikit-learn</strong></li>
     <li><strong>Pandas</strong></li>
     <li><strong>NumPy</strong></li>
     <li><strong>Matplotlib</strong></li>
     <li><strong>Streamlit</strong></li>
-</ul>
-
-<h2>💡 Future Improvements</h2>
-
-<ul>
-    <li>Enhancing the recommendation algorithm for better accuracy.</li>
-    <li>Adding more features, such as personalized playlists.</li>
-    <li>Improving the user interface for a better experience.</li>
 </ul>
 
 <h2>🔗 Try It Out</h2>
