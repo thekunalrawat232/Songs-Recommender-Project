@@ -4,7 +4,7 @@ Welcome to my first machine learning project! I'm excited to share this song rec
 🚀 Project Overview
 This project is a Song Recommender System that suggests songs based on user preferences. I utilized several key libraries and frameworks to bring this project to life:
 
-TensorFlow and scikit-learn for building and training the recommendation models.
+TensorFlow and scikit-learn for building and training the recommendation models.<br>
 Pandas and NumPy for data manipulation and preprocessing.
 Matplotlib for visualizing data insights and model performance.
 Streamlit for creating a user-friendly web interface, allowing users to interact with the recommender system directly from their browsers.
