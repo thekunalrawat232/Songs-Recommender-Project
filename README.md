@@ -4,7 +4,7 @@
 
 <h1>🎶 Song Recommender System</h1>
 
-<p>Welcome to my first machine learning project! I'm excited to share this song recommender system that I built using various machine learning libraries and tools. This project showcases my learning journey and how I've applied these tools to create something functional and fun.</p>
+<p>Welcome to my first end to end machine learning project! I'm excited to share this song recommender system that I built using various machine learning libraries and tools. This project showcases my learning journey and how I've applied these tools to create something functional and fun.</p>
 
 <h2>🚀 Project Overview</h2>
 
